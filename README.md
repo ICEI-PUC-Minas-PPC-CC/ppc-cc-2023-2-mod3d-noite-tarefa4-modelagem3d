@@ -1,6 +1,6 @@
 # TÍTULO DO PROJETO
 
-Trabalho extra de faces - Blender
+Trabalho extra de faces e da escultura - Blender
 
 ## Integrantes
 
